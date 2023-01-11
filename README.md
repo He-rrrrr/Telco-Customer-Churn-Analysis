@@ -17,7 +17,7 @@
     
     scikit-learn   0.22.1
 
-复现步骤：将csv文件与ipynb文件放在同一目录下，运行ipynb文件即可
+复现步骤：将csv文件与code.ipynb文件放在同一目录下，运行code.ipynb文件即可
 
 
 ## 研究背景
